@@ -1,0 +1,7 @@
+REquirements:
+1. TWO PC's	(i) Kali Linux
+		(ii)Windows Pc
+
+2.TOOLS		In windows:	Python, Pywin32, Pip3, Scapy.
+
+ 
